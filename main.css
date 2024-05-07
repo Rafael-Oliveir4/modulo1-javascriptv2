@@ -1,0 +1,31 @@
+*{
+    padding: 0;
+    margin: 0;
+    box-sizing: border-box;
+    font-family:'Times New Roman', Times, serif;
+}
+
+header{
+    font-weight: bold;
+    color: blue;
+    margin-bottom: 10px;
+}
+
+body{
+    background-color: grey;
+    text-align: center;
+}
+
+h2 {
+    color: purple;
+    margin-bottom: 10px;
+}
+
+p{
+    color: aqua;
+    margin-bottom: 10px;
+}
+
+img {
+    border-radius: 50px;
+}
